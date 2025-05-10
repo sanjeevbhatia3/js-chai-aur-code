@@ -1,0 +1,7 @@
+-> create a test.js file in vscode (editor), write a line console.log("Sanjeev"), execute this script and it will print "Sanjeev" in console output
+
+
+
+
+
+-> to get documentation for anything in js like alert. do mdn alert and it will take you to mozilla documentation 
